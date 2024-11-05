@@ -1,4 +1,2 @@
-img/cenario-passo0.png
-img/cenario-passo11-cidade-perdida.png
-img/cenario-passo4-voltar-casa.png
-index.html
+
+![cenario-passo0](https://github.com/user-attachments/assets/519f858c-aff4-47d3-84c6-b73c33812aa1)
